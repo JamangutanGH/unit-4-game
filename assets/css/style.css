@@ -1,0 +1,52 @@
+
+body {
+    background: peru;    
+}
+
+p {
+    font-style: italic;
+    font-weight: bolder;
+    color: indigo;
+}
+
+h1 {
+    color:indigo;
+}
+
+
+.headerBox {
+    background: white;
+    font-family: fantasy;
+}
+
+.bodyBox {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: powderblue;
+ }
+
+
+.resultsBox {
+    background: palegreen;
+}
+
+.gameScoreBox {
+    background: paleturquoise;
+}    
+
+.buttonBox {
+    width: 100%;
+    background: silver;
+}
+
+.button {
+    float: left;
+}
+
+.gameBannerBox {
+    background: sienna;
+}
+
+.totalScoreBox {
+    background-color: seagreen;
+}
+
