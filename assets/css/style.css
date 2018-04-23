@@ -19,7 +19,7 @@ h1 {
     font-family: fantasy;
 }
 
-.bodyBox {
+.rulesBox {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background: powderblue;
  }
@@ -34,7 +34,6 @@ h1 {
 }    
 
 .buttonBox {
-    width: 100%;
     background: silver;
 }
 
@@ -43,7 +42,7 @@ h1 {
 }
 
 .gameBannerBox {
-    background: sienna;
+        background: sienna;
 }
 
 .totalScoreBox {
